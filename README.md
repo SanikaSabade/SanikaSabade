@@ -1,6 +1,6 @@
 # Sanika Arvind Sabade 
 
-# About Me
+## 🙍‍♀️ About Me
 
 Hello! I’m Sanika Sabade, a passionate Computer Science student from Maharashtra, India. I’m currently in my Final year of pursuing a Bachelor's degree in Computer Science and Engineering at Maharashtra Institute of Technology. My primary focus are full-stack development, UI/UX design, and exploring frontend technologies. I’m also enthusiastic about diving into new technologies.
 
@@ -23,6 +23,6 @@ Hello! I’m Sanika Sabade, a passionate Computer Science student from Maharasht
 
 ## 📫 Contact Me
 
-Feel free to connect with me on [LinkedIn] (www.linkedin.com/in/sanika-sabade-2b0696261). I'm always open to interesting discussions and collaboration opportunities!
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/sanika-sabade-2b0696261). I'm always open to interesting discussions and collaboration opportunities!
 
 ---
