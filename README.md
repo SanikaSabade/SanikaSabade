@@ -1,5 +1,4 @@
-Here’s a tailored README for you:
-
+Sanika Arvind Sabade 
 ---
 
 # About Me
@@ -25,6 +24,6 @@ Hello! I’m Sanika Sabade, a passionate Computer Science student from Maharasht
 
 ## 📫 Contact Me
 
-Feel free to connect with me on [LinkedIn]www.linkedin.com/in/sanika-sabade-2b0696261. I'm always open to interesting discussions and collaboration opportunities!
+Feel free to connect with me on [LinkedIn] (www.linkedin.com/in/sanika-sabade-2b0696261). I'm always open to interesting discussions and collaboration opportunities!
 
 ---
