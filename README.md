@@ -7,7 +7,7 @@ Hello! I’m Sanika Sabade, a passionate Computer Science student from Maharasht
 ## 🎓 Education
 
 - **Bachelor's Degree in Computer Science and Engineering**  
-  Maharashtra Institute of Technology (Autonomous) Chh. Sambhaji Nagar
+  Maharashtra Institute of Technology (Autonomous) Chh. Sambhajinagar
 
 ## 💻 Skills
 
