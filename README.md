@@ -2,7 +2,7 @@
 
 ## 🙍‍♀️ About Me
 
-Hello! I’m Sanika Sabade, a passionate Computer Science student from Maharashtra, India. I’m currently in my Final year of pursuing a Bachelor's degree in Computer Science and Engineering at Maharashtra Institute of Technology. My primary focus are full-stack development, UI/UX design, and exploring frontend technologies. I’m also enthusiastic about diving into new technologies.
+Hello! I’m Sanika Sabade, a passionate Computer Science student from Maharashtra, India. I have completed my Bachelor's degree in Computer Science and Engineering at Maharashtra Institute of Technology. My primary focus are full-stack development, UI/UX design, and exploring frontend technologies. I’m also enthusiastic about diving into new technologies.
 
 ## 🎓 Education
 
