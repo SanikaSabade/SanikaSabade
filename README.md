@@ -6,14 +6,14 @@ Hello! I’m Sanika Sabade, a passionate Computer Science student from Maharasht
 
 ## 🎓 Education
 
-- **Bachelor's Degree in Computer Science and Engineering (Pursuing)**  
+- **Bachelor's Degree in Computer Science and Engineering **  
   Maharashtra Institute of Technology (Autonomous) Chh. Sambhaji Nagar
 
 ## 💻 Skills
 
-- **Programming Languages**: Python, JavaScript
+- **Programming Languages**: Java, JavaScript, Typescript
 - **Frameworks & Technologies**: React, Node.js, Next.js, React Native 
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL, MongoDB, PostgresSQL
 
 ## 🌱 I’m Currently Learning
 
